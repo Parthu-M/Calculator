@@ -1,68 +1,64 @@
-📱 Simple Calculator
-A realistic, modern calculator built using HTML, CSS, and JavaScript, designed to look and behave like a real-world calculator. It supports mouse and keyboard input, and is deployed live on Vercel.
+# 📱 Simple Calculator
 
-Live Demo 👉 https://simplecalculator-19ht89ha6-parthu-ms-projects.vercel.app
+A realistic, modern calculator built using **HTML**, **CSS**, and **JavaScript**, designed to look and behave like a real-world calculator. It supports mouse and keyboard input, and is deployed live on Vercel.
 
-✨ Features
-Beautiful modern calculator UI
+**Live Demo 👉 [https://simplecalculator-19ht89ha6-parthu-ms-projects.vercel.app](https://simplecalculator-19ht89ha6-parthu-ms-projects.vercel.app)**
 
-Basic arithmetic operations: +, −, ×, ÷, %
+---
 
-Keyboard support for easy entry
+## ✨ Features
 
-Clear (C) and Backspace (⌫) buttons
+- Beautiful modern calculator UI  
+- Basic arithmetic operations: +, −, ×, ÷, %  
+- Keyboard support for easy entry  
+- Clear (`C`) and Backspace (`⌫`) buttons  
+- Responsive layout for larger screens  
+- Deployed using **Vercel**
 
-Responsive layout for larger screens
+---
 
-Deployed using Vercel
+## 🚀 Technologies Used
 
-🚀 Technologies Used
-HTML5
+- HTML5  
+- CSS3  
+- JavaScript (vanilla)  
+- Vercel (for deployment)
 
-CSS3
+---
 
-JavaScript (vanilla)
+## 📂 Project Structure
 
-Vercel (for deployment)
-
-📂 Project Structure
-pgsql
-Copy
-Edit
 calculator/
-  index.html
-  style.css
-  script.js
-  README.md
-🛠️ Installation & Running Locally
-Clone the repository:
+index.html
+style.css
+script.js
+README.md
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-Open the index.html file directly in your browser
-or use a live server extension in VSCode.
-
-No build steps or frameworks needed — it's a simple static project.
 
 🌐 Deployment
 This project is deployed on Vercel.
-To deploy updates:
 
-Push changes to the connected GitHub repo
+Connect your GitHub repo
 
-Vercel automatically rebuilds and redeploys
+Select “Other” as the framework (static site)
+
+Deploy
+
+Vercel will automatically build and redeploy on push
 
 📸 Screenshots
 Dark Theme Style
-![image](https://github.com/user-attachments/assets/46d8423b-663e-4657-b6ca-5a6882ad302d)
+
+![image](https://github.com/user-attachments/assets/bdd67a71-0385-4fe0-80fd-7e76d84978d1)
 
 
 📌 Future Enhancements
-✅ Scientific functions (sin, cos, tan, log, sqrt)
-✅ Calculation history
-✅ Theme switcher (light/dark)
-✅ Unit converter mode
-✅ Voice input for calculations
+Scientific functions (sin, cos, tan, log, sqrt)
 
+Calculation history
+
+Theme switcher (light/dark mode)
+
+Unit converter mode
+
+Voice input for calculations
