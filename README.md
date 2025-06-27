@@ -34,6 +34,7 @@ style.css
 script.js
 README.md
 
+---
 
 🌐 Deployment
 This project is deployed on Vercel.
@@ -46,13 +47,16 @@ Deploy
 
 Vercel will automatically build and redeploy on push
 
+---
+
 📸 Screenshots
-Dark Theme Style
 
 ![image](https://github.com/user-attachments/assets/bdd67a71-0385-4fe0-80fd-7e76d84978d1)
 
+---
 
 📌 Future Enhancements
+
 Scientific functions (sin, cos, tan, log, sqrt)
 
 Calculation history
